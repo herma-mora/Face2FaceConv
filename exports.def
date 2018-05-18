@@ -1,0 +1,4 @@
+LIBRARY	"Face2FaceConv"
+EXPORTS
+SKSEPlugin_Query
+SKSEPlugin_Load
